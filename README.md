@@ -1,12 +1,12 @@
 # Telecom-churn
 The analysis focusses on the churn of the people in the telecom company with the help of certain Independent variables, all of which is directly focused to identify the dependent variable i.e - The Churn ratio and the variable impacting on it.
 
-🔹 Title / Headline
+**Title / Headline**
 
 Telecom Customer Churn Analysis with Data-Driven Retention Solutions
 Identifying churn drivers and translating insights into measurable business actions.
 
-Purpose
+**Purpose**
 
 This project analyzes telecom customer churn to identify high-risk segments and convert analytical findings into actionable retention strategies.
 The dashboard is built to support:
@@ -17,7 +17,7 @@ Contract and pricing optimization
 
 Customer experience improvement
 
-Tech Stack
+**Tech Stack**
 
 Python (Pandas, NumPy) – Data cleaning & analysis
 
@@ -25,7 +25,7 @@ Matplotlib / Seaborn – Exploratory data analysis
 
 Jupyter Notebook – End-to-end analytical workflow
 
-📂 Data Source
+**Data Source**
 
 Telecom Customer Churn Dataset
 
@@ -43,7 +43,8 @@ Payment & billing methods
 
 Churn flag
 
-Features, Insights & Business Solutions
+**Features, Insights & Business Solutions**
+
 1️⃣ High Churn in Month-to-Month Contracts
 
 Data Insight
